@@ -4,3 +4,4 @@ flask
 torch
 sentence_transformers
 pinecone-client
+gunicorn
