@@ -3,4 +3,4 @@ flask_cors
 flask
 torch
 sentence_transformers
-pinecone
+pinecone-client
